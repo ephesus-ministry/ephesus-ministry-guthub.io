@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ephesus Ministry</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="Ephesus Ministry Logo" class="logo" />
+    <h1>Ephesus Ministry</h1>
+    <p>Founded by Apostle Juve | John 17:1–3</p>
+  </header>
+
+  <main>
+    <section class="coming-soon">
+      <h2>Coming Soon</h2>
+      <p>The Spirit of the Lord showed me what transpired during the Last Supper... <br>
+      Don’t miss the miraculous power in the breaking of the body of Christ and drinking from His cup.</p>
+    </section>
+
+    <section class="about">
+      <h2>About the Ministry</h2>
+      <p>
+        Ephesus Ministry began in 2019 with a God-given mandate to lead a generation to build its foundation solely on the message of Jesus Christ—His life, death, burial, resurrection, and second coming.
+      </p>
+      <p class="verse">“This is eternal life: that they may know you, the only true God, and Jesus Christ, whom you have sent.” — John 17:3</p>
+    </section>
+
+    <section class="banner">
+      <h2>The Lord’s Table</h2>
+      <img src="assets/juve.png" alt="Apostle Juve" class="apostle-photo"/>
+      <p>“He prepares a table before me in the presence of my enemies.” — Psalm 23:5</p>
+    </section>
+
+    <section class="contact">
+      <h2>Contact & Support</h2>
+      <ul>
+        <li>Email: <a href="mailto:ephesusdonations@gmail.com">ephesusdonations@gmail.com</a></li>
+        <li>Phone: +256 741 245 356 / +256 761 573 255</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Ephesus Ministry. All rights reserved.</p>
+  </footer>
+</body>
+</html>
